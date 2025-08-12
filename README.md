@@ -41,7 +41,7 @@ A modern, responsive website for YogA's residential immersive yoga programs buil
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/yoga-school-website.git
+   git clone https://github.com/Cypher101011/YOGA.git
    cd yoga-school-website
    \`\`\`
 
@@ -284,8 +284,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or support:
 - **Email**: hello@yoga.example
-- **Documentation**: [Project Wiki](https://github.com/yourusername/yoga-school-website/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/yoga-school-website/issues)
+
 
 ---
 
